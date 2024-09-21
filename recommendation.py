@@ -12,8 +12,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 # Replace with your own Client ID and Client Secret
-CLIENT_ID = 'db8a89abdc124e98b6d67f12c75c8387'
-CLIENT_SECRET = 'f5eeb9cc5a904ea181eec8c68877b277'
+CLIENT_ID = '*********************'
+CLIENT_SECRET = '*********************'
 
 # Base64 encode the client ID and client secret
 client_credentials = f"{CLIENT_ID}:{CLIENT_SECRET}"
